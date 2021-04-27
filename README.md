@@ -1,6 +1,7 @@
 # Recursive_Tetration
 This is the code I used in the paper "The Limits of a Family; of Asymptotic Solutions to The Tetration Equation"
 The paper is available on arXiv at the link https://arxiv.org/abs/2104.01990
+All code is written for MatLab, but works fine for other languages once translated. Nothing specific to MatLab is especially called.
 
 This repository consists of 5 functions:
 
