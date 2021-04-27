@@ -2,7 +2,7 @@
 This is the code I used in the paper "The Limits of a Family; of Asymptotic Solutions to The Tetration Equation"
 The paper is available on arXiv at the link https://arxiv.org/abs/2104.01990
 
-This repository consists of 4 functions:
+This repository consists of 5 functions:
 
 beta_function(z,l,n)
 
